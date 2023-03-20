@@ -23,4 +23,9 @@ Ejemplos
 
 *.txt
 
-La pagina es: https://www.toptal.com/developers/gitignore
+La pagina para crear .gitignore es: https://www.toptal.com/developers/gitignore
+
+### Respuestas a las preguntas ¿A qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?
+
+El resultado del punto 2 y 3 es igual, pues la direccion almacenada por el punto es la direccion de memoria de la variable.
+En el punto 4 obtengo la direccion de memoria del puntero, esta no es igual que a la anterior ya que el puntero a su vez es otra variable que necesita almacenarse en algun lado al igual que la variable anterior.
