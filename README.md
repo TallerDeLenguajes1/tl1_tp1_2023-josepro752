@@ -22,3 +22,5 @@ Ejemplos
 ### Ignora todos los archivos de texto
 
 *.txt
+
+La pagina es: https://www.toptal.com/developers/gitignore
